@@ -1,0 +1,6 @@
+{
+    "sketch": "examples\\motion_control\\velocity_motion_control\\hall_sensor\\velocity_control.ino",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "port": "COM3"
+}

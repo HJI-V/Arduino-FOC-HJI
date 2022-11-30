@@ -1,3 +1,7 @@
+#include <SimpleFOC.h>
+
+#include <SimpleFOC.h>
+
 /**
  *
  * Velocity motion control example

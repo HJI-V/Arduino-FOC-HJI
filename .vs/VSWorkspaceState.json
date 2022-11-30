@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\examples",
+    "\\examples\\motion_control",
+    "\\examples\\motion_control\\velocity_motion_control",
+    "\\examples\\motion_control\\velocity_motion_control\\hall_sensor",
+    "\\src"
+  ],
+  "SelectedNode": "\\examples\\motion_control\\velocity_motion_control\\hall_sensor\\velocity_control.ino",
+  "PreviewInSolutionExplorer": false
+}
